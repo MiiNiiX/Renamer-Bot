@@ -1,37 +1,42 @@
-# Renamer-Bot
+## Renamer-Bot ❤️
 
-## Bot Features
-* Renaming Telegram files as file or video.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Mayans&repo=Renamer-Bot&theme=tokyonight)](https://github.com/The-Mayans/Renamer-Bot&bg_color=#24292F)
 
-* Trace Channel to track the users what they are doing with your bot.
+## Features 🦠
 
-* Password to use bot in private.
+```
+• Renaming Telegram files as file or video.
 
-* Permanent thumbnail support.
+• Trace Channel to track the users what they are doing with your bot.
 
-* Timegap to protect bot from spamming.
+• Password to use bot in private.
 
-* /mode to change upload mode.
+• Permanent thumbnail support.
 
-* Forcesub users to join you channel before using your bot.
+• Timegap to protect bot from spamming.
 
-## Optional Vars
+• /mode to change upload mode.
 
-* `AUTH_USERS:` List of Auth User IDs separated by whitespace and who had right to use admin commands.
+• Forcesub users to join you channel before using your bot.
+```
 
-* `BANNED_USERS:` List of banned users IDs whom you want to stop from using your bot sperate each user by whitespace.
+## Optional Vars 🛒
+```
+• `AUTH_USERS:` List of Auth User IDs separated by whitespace and who had right to use admin commands.
 
-* `BOT_PASSWORD:` Give a password to your bot to make bot private and can be used by only logged users. (AUTH_USERS and OWNER can use without login)
+• `BANNED_USERS:` List of banned users IDs whom you want to stop from using your bot sperate each user by whitespace.
 
-* `CUSTOM_CAPTION:` The custom caption to be added when sending the renamed File.
+• `BOT_PASSWORD:` Give a password to your bot to make bot private and can be used by only logged users. (AUTH_USERS and OWNER can use without login)
 
-* `FORCE_SUB:` The username of your channel without @ to force users to join your channel in order to use this bot.
+• `CUSTOM_CAPTION:` The custom caption to be added when sending the renamed File.
 
-* `TIME_GAP:` The timegap between requests in seconds to stop user from flooding bot.
+• `FORCE_SUB:` The username of your channel without @ to force users to join your channel in order to use this bot.
 
-* `TRACE_CHANNEL:` A telegram channel Id to send the users data who are using bot.
+• `TIME_GAP:` The timegap between requests in seconds to stop user from flooding bot.
 
-## Available Commands
+• `TRACE_CHANNEL:` A telegram channel Id to send the users data who are using bot.
+```
+## Available Commands 👀
 ```
 start - check whether bot is alive or not
 mode - change video upload mode to file or video
@@ -44,17 +49,24 @@ login - (when password is given) to login to bot
 
 ```
 
-## Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/Renamer-Bot)
+## Deploy 🚀
 
-## Succsus Url
-   * [Renamer Bot](https://t.me/Renamer_4_Bot)
-   
-## TG Bots Updates
-   * [Bot Universe](https://t.me/TMWAD)
+<p align="">
+    <a href="https://github.com/The-Mayans/Renamer-Bot">
+    <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
+</p>
 
+## Found a Bug 🐛
 
-## Thanks And Credits
-[SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
+```Feel free to create a pull or create a issue now and describe your issue freely.```
 
-[Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
+## Succsus Url 🤖
+   **[Renamer Bot](https://t.me/renamer_4_bot)**
+
+## TG Bots Updates 🦄
+   **[Bot Universe](https://t.me/TMWAD)**
+
+## Credits, and Thanks to 👀
+
+- [SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
+- [Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
