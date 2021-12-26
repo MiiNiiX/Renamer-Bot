@@ -1,6 +1,6 @@
 ## Renamer-Bot ❤️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Mayans&repo=Renamer-Bot&theme=tokyonight)](https://github.com/The-Mayans/Renamer-Bot&bg_color=#24292F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalanakt&repo=Renamer-Bot&theme=tokyonight)](https://github.com/kalanakt/Renamer-Bot&bg_color=#24292F)
 
 ## Features 🦠
 
