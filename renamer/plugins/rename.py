@@ -16,7 +16,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-@kinu6.on_message((filters.document | filters.video | filters.audio) & filters.private & filters.incoming)
+@kinu6.on_message(filters.private & (filters.document | filters.video | filters.audio | filters.voice | filters.video_note))
 async def media(c, m):
     """Checking and Processing the renaming"""
 
